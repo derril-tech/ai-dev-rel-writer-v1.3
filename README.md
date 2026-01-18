@@ -1,8 +1,6 @@
 # 🚀 OpenAI DevRelWriter
 **with OpenAI SDK**
 
-🌐 **See the Live Application**: [https://ai-dev-rel-writer.vercel.app](https://ai-dev-rel-writer.vercel.app)
-
 > **Transform GitHub issues, PRs, and discussions into ship-ready release notes, changelog entries, blog drafts, and tutorial outlines—powered by AI.** ⚡
 
 ---
@@ -201,5 +199,4 @@ This application demonstrates modern React development patterns:
 
 Made with ❤️ and ☕ by [Derril Filemon](https://github.com/derril-tech)
 
-[🌐 Live Demo](https://ai-dev-rel-writer.vercel.app) 
 </div>
